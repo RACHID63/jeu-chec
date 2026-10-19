@@ -1,0 +1,6 @@
+{
+  "name": "Imperium Chess",
+  "description": "Jeu d'échecs antique 3D avec sculptures romaines en marbre et bronze, brisure en éclats et mode apprentissage interactif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
